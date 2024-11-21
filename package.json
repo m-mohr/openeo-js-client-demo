@@ -1,0 +1,15 @@
+{
+  "name": "openeo-js-client-demo",
+  "version": "1.0.0",
+  "description": "How to use the openEO JavaScript client",
+  "main": "index.js",
+  "author": "Matthias Mohr",
+  "license": "Apache-2.0",
+  "type": "module",
+  "dependencies": {
+    "@openeo/js-client": "^2.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
